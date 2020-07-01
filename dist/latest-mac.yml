@@ -1,0 +1,12 @@
+version: 1.1.2
+files:
+  - url: dcent-bridge-1.1.2-mac.zip
+    sha512: f7uG2mOMriSNizNajIb8nUEnVPUKsdku88huvU29EkZaRpl1MRbcYnUhghWIvm8N6oEHcWlW4mVU4lGh9oSMJw==
+    size: 56923546
+    blockMapSize: 59988
+  - url: dcent-bridge-1.1.2-mac.dmg
+    sha512: 7yGIhmVmxm2d3XqeJgX6Fje02F9GOGL0YsXZ12mYLBBk8FCxLrQtEageqaJmXdotjQLexO9UVtpfMM5RZCk+BQ==
+    size: 58876326
+path: dcent-bridge-1.1.2-mac.zip
+sha512: f7uG2mOMriSNizNajIb8nUEnVPUKsdku88huvU29EkZaRpl1MRbcYnUhghWIvm8N6oEHcWlW4mVU4lGh9oSMJw==
+releaseDate: '2020-06-30T05:49:13.366Z'
