@@ -18,7 +18,7 @@ jobs:
     - name: Retrieve version
       run: echo "::set-env name=TAG_NAME::v$(head -n 1 dist/latest.yml | sed 's/version:\s//')"
 
-    - name: Create Release
+    - name: Create Release and tag
       id: create_release
       uses: actions/create-release@v1
       env:
