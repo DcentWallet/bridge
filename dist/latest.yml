@@ -1,8 +1,8 @@
-version: 1.1.8
+version: 1.1.6
 files:
-  - url: dcent-bridge-1.1.8-win.exe
-    sha512: ofMjgD8qs5JoSDtbg1Xpf5pWN7ITWphuIQ1OejrTB8ggChSzlwa887Dc6Rk7E0y/e+LrtkKPRgCfZAxph11HNQ==
-    size: 44577520
-path: dcent-bridge-1.1.8-win.exe
-sha512: ofMjgD8qs5JoSDtbg1Xpf5pWN7ITWphuIQ1OejrTB8ggChSzlwa887Dc6Rk7E0y/e+LrtkKPRgCfZAxph11HNQ==
-releaseDate: '2021-05-06T08:11:11.022Z'
+  - url: dcent-bridge-1.1.6-win.exe
+    sha512: iJ0HEBhcpRGFUTYCF4xuQ0e5fDncEq08nzEDd9yzm4dkwgPCWkFmkKDGh77H9EqcB23STlSOAA3ufU6jQJBHww==
+    size: 44577880
+path: dcent-bridge-1.1.6-win.exe
+sha512: iJ0HEBhcpRGFUTYCF4xuQ0e5fDncEq08nzEDd9yzm4dkwgPCWkFmkKDGh77H9EqcB23STlSOAA3ufU6jQJBHww==
+releaseDate: '2021-01-22T05:21:13.064Z'
