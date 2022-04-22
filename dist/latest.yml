@@ -1,8 +1,8 @@
-version: 1.2.0
+version: 1.2.1
 files:
-  - url: dcent-bridge-1.2.0-win.exe
-    sha512: H/423GTn9ZqLpEQ/xa8hg3oDdyb6jWRTrvwm6iRYhc84hBFBMACCfV5H54BuDYpD93q+eE/h5MvwemoNJ2Vliw==
-    size: 44880184
-path: dcent-bridge-1.2.0-win.exe
-sha512: H/423GTn9ZqLpEQ/xa8hg3oDdyb6jWRTrvwm6iRYhc84hBFBMACCfV5H54BuDYpD93q+eE/h5MvwemoNJ2Vliw==
-releaseDate: '2021-12-22T06:50:58.695Z'
+  - url: dcent-bridge-1.2.1-win.exe
+    sha512: 07kB8I2wab7iBe4dxjYxqWkhaDacQBWN9xA+wEDehHMZPtGEq5LxpKwnZaygzGjr5jbgwXU/O+77gJLfRslADw==
+    size: 44874912
+path: dcent-bridge-1.2.1-win.exe
+sha512: 07kB8I2wab7iBe4dxjYxqWkhaDacQBWN9xA+wEDehHMZPtGEq5LxpKwnZaygzGjr5jbgwXU/O+77gJLfRslADw==
+releaseDate: '2022-04-22T01:40:26.300Z'
